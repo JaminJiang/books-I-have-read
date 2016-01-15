@@ -1,5 +1,6 @@
 # books-I-have-read
 祭奠那些年我看过或没看过的书籍。
+#机器学习
 ##《Machine learning in Action》
 4星
 有本中文版，用过里面的ridged regression，看过英文的classification部分。代码写得一般，但没有用到多少面向对象的东西。理论不足，比如逻辑回归部分代码直接使用了对w求导后的公式，而不带说明，svm章中对smo算法的毫无描述直接上代码。带我进入机器学习的书。
