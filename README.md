@@ -1,5 +1,6 @@
 # books-I-have-read
 祭奠那些年我看过或没看过的书籍。
+***
 #机器学习
 ##《Machine learning in Action》
 4星 
@@ -20,9 +21,10 @@
 4星 
 
 买了新书一直没看。python语言，以后得看！
-
+***
 #工作
-#复习C++的建议路线：[C++对象模型博客](http://www.cnblogs.com/skynet/p/3343726.html) -->《Effective C++》-->《剑指Offer》 -->《程序员面试宝典》（有时间的话）
+##复习C++的建议路线
+[C++对象模型博客](http://www.cnblogs.com/skynet/p/3343726.html) -->《Effective C++》-->《剑指Offer》 -->《程序员面试宝典》（有时间的话）
 ##《Effective C++》
 4星半
 
@@ -67,7 +69,7 @@
 四星 
 
 教小朋友的时候用到的书，不过现在好像用ElasticSearch。
-
+***
 #Quant
 ##《QUANTITATIVE ECONOMICS with Python》（简称py-quant-econ）
 4星半 
@@ -88,7 +90,7 @@
 3星 
 
 太多关于python基础的，所以没看。
-
+***
 #awsome awsomes
 ##awsome 机器学习
 机器学习最好的资料！spark、kaggle、scikit、等资料。<http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/tree/master/>新加了deep-learning模块，写完就去看~ 
