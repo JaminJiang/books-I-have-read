@@ -24,7 +24,10 @@
 ***
 #工作
 ##复习C++的建议路线
-[C++对象模型博客](http://www.cnblogs.com/skynet/p/3343726.html) -->《Effective C++》-->《剑指Offer》 -->《程序员面试宝典》（有时间的话）
+[C++对象模型博客](http://www.cnblogs.com/skynet/p/3343726.html) -->[How to program in C++](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html) --> 《Effective C++》-->《剑指Offer》 -->《程序员面试宝典》（有时间的话）--> [July编程艺术](http://www.cnblogs.com/v-July-v/category/366043.html)
+##复习Python的建议路线
+[Python编程最佳实践](http://www.kuqin.com/shuoit/20160121/350192.html) --> [Python自省（反射）指南](http://www.cnblogs.com/huxi/archive/2011/01/02/1924317.html) --> [让你的Python代码更Pythonic](http://www.jb51.net/article/56271.htm) --> 《QUANTITATIVE ECONOMICS with Python》 --> 我的“awesome机器学习”
+
 ##《Effective C++》
 4星半
 
