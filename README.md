@@ -2,10 +2,16 @@
 祭奠那些年我看过或没看过的书籍。
 ***
 #机器学习
+
 ##《Machine learning in Action》
 4星 
 
 有本中文版，用过里面的ridged regression，看过英文的classification部分。代码写得一般，但没有用到多少面向对象的东西。理论不足，比如逻辑回归部分代码直接使用了对w求导后的公式，而不带说明，svm章中对smo算法的毫无描述直接上代码。带我进入机器学习的书。
+
+##《Hands-On machine learning with Scikit-learn & Tensorflow》
+4星半
+
+现在看到第四章，非常不错，学完整理成思维导图（参考收藏的github 项目）。
 
 ##《Building Machine Learning System with Python》
 4星 
@@ -22,12 +28,9 @@
 
 买了新书一直没看。python语言，以后得看！
 
-##《七周七并发》
-3星 
-
-太多Cloure语言的内容，不和我的口味。
 ***
 #工作
+
 ##复习C++的建议路线
 [C++对象模型博客](http://www.cnblogs.com/skynet/p/3343726.html) -->[How to program in C++](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html) --> 《Effective C++》-->《剑指Offer》 -->《程序员面试宝典》（有时间的话）--> [July编程艺术](http://www.cnblogs.com/v-July-v/category/366043.html)
 ##复习Python的建议路线
@@ -62,6 +65,17 @@
 
 排版很差，代码分为左右两节，貌似还有些错误，没看下去。不过以后还是得过一遍。
 
+
+##《七周七并发》
+3星 
+
+太多Cloure语言的内容，不和我的口味。
+
+##《亿级流量网站架构》
+3星 
+
+目录不错，内容太差，大多是代码和配置文件堆砌。
+
 ##《程序员修炼之道-小工到专家》
 3星半 
 
@@ -95,6 +109,7 @@
 教小朋友的时候用到的书，不过现在好像用ElasticSearch。
 ***
 #Quant
+
 ##《QUANTITATIVE ECONOMICS with Python》（简称py-quant-econ）
 4星半 
 
@@ -116,6 +131,7 @@
 太多关于python基础的，所以没看。
 
 #Misc
+
 ##《学术研究，你的成功之道》
 3星半
 
@@ -124,6 +140,7 @@
 
 ***
 #awsome awsomes
+
 ##awsome 机器学习
 机器学习最好的资料！spark、kaggle、scikit、等资料。<http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/tree/master/>新加了deep-learning模块，写完就去看~ 
 
