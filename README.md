@@ -149,31 +149,38 @@
 #awsome awsomes
 
 ##awsome 机器学习
+
 机器学习最好的资料！spark、kaggle、scikit、等资料。<http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/tree/master/>新加了deep-learning模块，写完就去看~ 
 
 机器学习次好的资料！过程全面，数据预处理、可视化、交叉验证、参数最优化等。<http://nbviewer.ipython.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb>
 斯坦福大学机器学习课程个人学习笔记 （我的网盘中有） 主要讲解理论，是不错的资料。
 
 ##awsome python
+
 参考我的360浏览器收藏夹，尤其是其中廖雪峰的官网<http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000>,里面有完整的Python web开发过程和示例，让我对网页，网络，并行等有了更进一步的理解，找工作必读。
 
 ##awsome quant
+
 参考我的360收藏夹-0710量化投资，主要是quantopian上的内容。 
 
 [math-finance-cheat-sheet] (https://github.com/daleroberts/math-finance-cheat-sheet/blob/master/math-finance-cheat-sheet.pdf)
 
 ##awsome English
+
 百词斩<http://www.baicizhan.com/words/slash>-背单词不二之选。 
 
 新编英语口语<http://www.doc88.com/p-99614752011.html>这本书中的文章不错。
 
 ##awsome 思维导图
+
 一张金字塔思维导图，待会记得看。
 
 #awsome Java
+
 美食天下项目，当年解救我于课程设计中。
 
 #awsome 学科
+
 ##《简单的逻辑学》
 3星星半
 
@@ -181,6 +188,7 @@
 
 
 #awsome 生活
+
 冷读术（度盘） 
 
 斗地主（度盘） 
